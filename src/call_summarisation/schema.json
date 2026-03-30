@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "primary_category": "fraud_security",
+  "primary_category_options": [
+    "payments",
+    "cards_atm",
+    "credit_limits",
+    "fraud_security",
+    "mortgage_servicing",
+    "mortgage_applications",
+    "complaints",
+    "other"
+  ],
+
+  "reason_for_contact": "string",
+  "key_points": ["string"],
+  "customer_requested": ["string"],
+  "actions_taken": ["string"],
+
+  "follow_up_needed": true,
+  "next_steps": ["string"],
+
+  "profile_flags": ["fraud_watch"],
+  "profile_flag_options": [
+    "fraud_watch",
+    "scam_victim_risk",
+    "phishing_reported",
+    "suspicious_activity_reported",
+    "account_restricted_recently",
+    "payment_dispute_history",
+    "repeat_phishing_reports",
+    "high_contact_frequency",
+    "repeat_disputes",
+    "mortgage_arrears_support_needed",
+    "mortgage_application_delay_risk",
+    "card_replacement_recent",
+    "atm_retained_card_event",
+    "credit_limit_change_request_history",
+    "vulnerable_customer",
+    "financial_hardship_indicator",
+    "complaint_risk",
+    "escalation_risk",
+    "no_flag"
+  ],
+
+  "category_tags": ["string"],
+  "urgency": "low",
+  "urgency_options": ["low", "medium", "high"],
+
+  "sentiment": "neutral",
+  "sentiment_options": ["negative", "neutral", "positive"],
+
+  "summary": "string"
+}

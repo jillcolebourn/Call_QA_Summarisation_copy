@@ -1,0 +1,68 @@
+[00:00:01] Agent: thank you for calling customer support my name is alex how can i help today
+[00:00:06] Customer: hi yeah um im calling because ive noticed some activity on my account that doesnt look right
+[00:00:13] Agent: okay im sorry to hear that can you tell me what youve noticed
+[00:00:18] Customer: theres a few card payments i dont recognise from yesterday
+[00:00:23] Agent: alright before we go into the details i just need to complete some security with you
+[00:01:35] Agent: thanks for that ive got your account up now
+[00:01:40] Agent: can you tell me roughly what the transactions were
+[00:01:44] Customer: theres one for thirty two pounds and another for just over seventy both online
+[00:01:52] Agent: okay yeah i can see those transactions here
+[00:01:57] Agent: do you definitely not recognise the merchants at all
+[00:02:01] Customer: no ive never shopped with them
+[00:02:05] Agent: alright when did you last use your card yourself
+[00:02:10] Customer: yesterday morning for groceries
+[00:02:15] Agent: okay and youve still got the card in your possession
+[00:02:19] Customer: yeah ive got it with me now
+[00:02:22] Agent: okay thank you thats helpful
+[00:02:26] Agent: so what this looks like is potentially unauthorised card activity
+[00:02:32] Customer: so does that mean ive been hacked or something
+[00:02:37] Agent: um it could be that the card details were compromised online rather than the physical card
+[00:02:45] Customer: thats worrying
+[00:02:48] Agent: yeah i understand it can be concerning
+[00:02:52] Customer: are you going to refund those payments
+[00:02:56] Agent: what we normally do first is block the card to prevent any further transactions
+[00:03:03] Customer: block it right now
+[00:03:06] Agent: yes thats usually the safest option
+[00:03:10] Customer: but then i wont be able to use it
+[00:03:13] Agent: i know its inconvenient but it does stop any further misuse
+[00:03:19] Customer: okay i guess do that
+[00:03:23] Agent: alright im going to place a temporary block on the card now
+[00:03:28] Agent: bear with me a moment
+[00:03:55] Agent: okay thats been blocked
+[00:04:00] Customer: so what happens to the money thats already gone
+[00:04:04] Agent: well ill need to raise a fraud claim for those transactions
+[00:04:10] Customer: how long does that take
+[00:04:14] Agent: it can take up to ten working days for the investigation
+[00:04:20] Customer: ten days is a long time
+[00:04:24] Agent: yeah i appreciate that it can feel long
+[00:04:29] Customer: am i definitely getting the money back
+[00:04:33] Agent: um if the transactions are confirmed as unauthorised then yes they would be refunded
+[00:04:41] Customer: and if theyre not
+[00:04:44] Agent: then we would explain the outcome in writing
+[00:04:49] Customer: that doesnt sound very reassuring
+[00:04:53] Agent: i understand and im sorry its not clearer
+[00:04:58] Customer: do i need to do anything else
+[00:05:02] Agent: i will ask you a few questions as part of the fraud report
+[00:05:07] Customer: okay
+[00:05:10] Agent: have you shared your card details with anyone recently
+[00:05:15] Customer: no definitely not
+[00:05:19] Agent: have you entered your card details on any new websites
+[00:05:24] Customer: not that i can think of
+[00:05:28] Agent: okay thanks
+[00:05:31] Agent: im just completing that report now
+[00:05:36] Agent: bear with me
+[00:06:10] Agent: okay thats been submitted
+[00:06:15] Customer: so i dont have a card now
+[00:06:18] Agent: thats right well need to cancel this one and issue a replacement
+[00:06:24] Customer: how long does that take
+[00:06:27] Agent: standard delivery is three to five working days
+[00:06:33] Customer: and i just cant use my account until then
+[00:06:37] Agent: you can still use online banking and transfers just not card payments
+[00:06:44] Customer: okay
+[00:06:47] Agent: youll get updates by text or email as the investigation progresses
+[00:06:53] Customer: alright
+[00:06:56] Agent: is there anything else youre worried about
+[00:07:00] Customer: no im just stressed about it
+[00:07:04] Agent: yeah i understand and im sorry this has happened
+[00:07:09] Customer: okay thanks
+[00:07:12] Agent: thanks for calling

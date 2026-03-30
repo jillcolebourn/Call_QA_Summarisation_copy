@@ -1,0 +1,34 @@
+Date: {date}
+
+To:
+{client_name}
+Customer ID: {client_ID}
+
+Subject: Response to Your Request for Capitalisation of Arrears
+
+Dear {client_name},
+
+We refer to your recent request for the capitalisation of arrears on your mortgage account referenced above. After reviewing your application, we inform you that your request has been {status}.
+
+If approved, the following changes will apply to your mortgage:
+
+Revised Principal Balance (£): {new_principal}
+
+New Monthly Payment (£): {new_payment}
+
+Remaining Term: {term} months
+
+Increase in Principal due to Capitalisation (£): {principal_increase}
+
+Additional terms to this new arrangement are as follows:
+- Your new monthly payment will be £{new_payment}, which reflects the new principal balance of £{new_principal}.
+- You have the right to withdraw from this agreement within 14 days of receiving this proposal.
+- If you have any complaints, you can contact our complaints department or the Financial Ombudsman Service.
+
+Please review these terms carefully. If you agree to proceed, kindly sign and return the enclosed acceptance form by {acceptance_date}. Failure to respond by this date may result in the offer lapsing automatically.
+
+If you have any questions, contact us.
+
+Yours faithfully,
+John Doe
+For and on behalf of National Westminster Bank Plc

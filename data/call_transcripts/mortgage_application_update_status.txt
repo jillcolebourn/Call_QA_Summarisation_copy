@@ -1,0 +1,57 @@
+[00:00:01] Agent: thank you for calling customer support my name is alex how can i help today
+[00:00:07] Customer: hi yeah um im calling to check the status of my mortgage application
+[00:00:15] Agent: okay right um before i look at that i just need to go through security with you
+[00:01:45] Agent: thanks for that ive got your application open now
+[00:01:51] Agent: so i can see your mortgage application here
+[00:01:56] Customer: okay great whats happening with it
+[00:02:00] Agent: um its currently showing as under review
+[00:02:05] Customer: its been under review for weeks
+[00:02:09] Agent: yeah i understand that feels like a long time
+[00:02:15] Customer: can you tell me whats actually holding it up
+[00:02:20] Agent: um it doesnt really give me that level of detail on this screen
+[00:02:27] Customer: so you dont know whats going on
+[00:02:31] Agent: not exactly no just that its still being assessed
+[00:02:37] Customer: have you got all my documents
+[00:02:41] Agent: um it looks like most of them are here
+[00:02:46] Customer: most of them
+[00:02:49] Agent: yeah um i cant see anything marked as missing but its not very clear
+[00:02:56] Customer: thats not reassuring
+[00:02:59] Agent: yeah sorry about that
+[00:03:03] Customer: is there a problem with my application
+[00:03:07] Agent: um not that i can see but i cant confirm either way
+[00:03:14] Customer: so when will i get a decision
+[00:03:18] Agent: um i dont have an exact timeframe unfortunately
+[00:03:25] Customer: roughly then
+[00:03:28] Agent: it could be another couple of weeks
+[00:03:33] Customer: thats really stressful
+[00:03:36] Agent: yeah i understand and im sorry
+[00:03:41] Customer: can you chase it for me
+[00:03:44] Agent: um i can add a note to the application
+[00:03:49] Customer: does that actually do anything
+[00:03:53] Agent: it flags that youve called for an update
+[00:03:59] Customer: okay i guess
+[00:04:03] Agent: ill just add that now
+[00:04:07] Agent: bear with me a moment
+[00:04:42] Agent: okay ive added a note
+[00:04:47] Customer: will someone contact me
+[00:04:51] Agent: um only once theres an update or decision
+[00:04:57] Customer: so i just wait
+[00:05:00] Agent: yeah at the moment
+[00:05:05] Customer: this is my first house i dont really know whats normal
+[00:05:10] Agent: yeah it can take a while sometimes
+[00:05:16] Customer: should i be worried
+[00:05:19] Agent: um not necessarily but i cant say for sure
+[00:05:26] Customer: thats not very helpful
+[00:05:29] Agent: yeah sorry about that
+[00:05:33] Customer: is this something i can complain about
+[00:05:37] Agent: um you could raise a complaint if you want to
+[00:05:42] Customer: would that speed it up
+[00:05:45] Agent: um not really no
+[00:05:51] Customer: right
+[00:05:54] Agent: you should get an email once theres any movement on the application
+[00:06:01] Customer: okay
+[00:06:04] Agent: is there anything else youre worried about
+[00:06:09] Customer: no i just feel a bit in the dark
+[00:06:14] Agent: yeah i understand and im sorry
+[00:06:18] Customer: alright thanks anyway
+[00:06:21] Agent: thanks for calling

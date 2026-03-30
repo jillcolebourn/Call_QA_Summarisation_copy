@@ -1,0 +1,119 @@
+[00:00:01] Agent: Thank you for calling customer support, my name is Alex. How can I help you today?
+
+[00:00:06] Customer: Hi Alex, yeah, I’m calling because I’m thinking about taking out a personal loan.
+
+[00:00:12] Agent: Okay, I can provide information about personal loans. Before we go any further, I’ll just need to complete security with you. Is that alright?
+
+[00:00:18] Customer: Yeah, that’s fine.
+
+[00:00:22] Agent: Great. Can you confirm your full name please?
+
+[00:00:26] Customer: It’s Daniel Morris.
+
+[00:00:30] Agent: Thanks Daniel. And your date of birth?
+
+[00:00:34] Customer: The 14th of June, 1988.
+
+[00:00:38] Agent: Perfect. And the first line of your address?
+
+[00:00:42] Customer: 22 Willow Close.
+
+[00:00:46] Agent: Thanks. Bear with me one moment while I bring up your account.
+
+[00:01:10] Agent: Okay Daniel, I’ve got your account open. You mentioned you were interested in a personal loan. What information were you looking for today?
+
+[00:01:21] Customer: Just how it works really. I’ve got some home repairs coming up and a couple of credit card balances.
+
+[00:01:33] Agent: Okay. At a high level, a personal loan is a fixed-term product. You borrow a set amount and repay it over an agreed period with fixed monthly repayments.
+
+[00:01:46] Customer: Right.
+
+[00:01:47] Agent: The loan amount and term you’re eligible for would depend on affordability and credit checks, which we only run if you choose to apply.
+
+[00:01:58] Customer: Okay, that makes sense.
+
+[00:02:01] Agent: For comparison, we also offer arranged overdrafts on current accounts, which are separate from personal loans.
+
+[00:02:10] Customer: How’s that different?
+
+[00:02:12] Agent: An overdraft is a flexible facility linked to your current account. There’s no fixed repayment schedule; interest is charged daily on any amount you use.
+
+[00:02:24] Customer: So it’s more short-term?
+
+[00:02:27] Agent: It’s generally used that way, yes, but how customers use it varies. I can explain the features, but I can’t advise which option is best for you.
+
+[00:02:38] Customer: Okay, that’s fair.
+
+[00:02:40] Agent: A personal loan gives certainty with fixed repayments. An overdraft gives flexibility, but the balance can fluctuate.
+
+[00:02:50] Customer: I think I’m mostly worried about having a buffer for the next couple of months.
+
+[00:02:56] Agent: In that case, I can explain how an overdraft limit increase request works, if that would be helpful.
+
+[00:03:03] Customer: Yeah, could you explain that?
+
+[00:03:06] Agent: Of course. You currently have an arranged overdraft limit of £500. You can request an increase, which would be subject to eligibility checks.
+
+[00:03:17] Agent: If approved, the higher limit would be available to use, but you wouldn’t have to use it unless needed.
+
+[00:03:26] Customer: Okay. And that wouldn’t lock me into monthly repayments?
+
+[00:03:30] Agent: Correct. There’s no fixed repayment schedule, but interest applies to any overdrawn amount.
+
+[00:03:38] Customer: I think I’d rather look at increasing the overdraft instead of taking out a loan right now.
+
+[00:03:45] Agent: That’s fine. Just to confirm, you’re no longer looking to apply for a personal loan today, and you’d like to request an overdraft limit increase?
+
+[00:03:55] Customer: Yes, that’s right.
+
+[00:03:58] Agent: Okay. I can process a request for an overdraft limit increase. This will involve a quick eligibility assessment. Would you like me to proceed?
+
+[00:04:07] Customer: Yes, please.
+
+[00:04:10] Agent: Alright. I’ll ask a couple of standard questions as part of that process.
+
+[00:04:14] Agent: Have there been any recent changes to your income or employment?
+
+[00:04:19] Customer: No, everything’s the same.
+
+[00:04:22] Agent: And are you currently up to date with your regular payments?
+
+[00:04:27] Customer: Yes.
+
+[00:04:29] Agent: Okay, thank you. I’ll run the check now.
+
+[00:04:47] Agent: Thanks for waiting. Based on the information available, you’re eligible to increase your arranged overdraft limit up to £1,500.
+
+[00:04:58] Customer: Okay, that sounds good.
+
+[00:05:01] Agent: Would you like to proceed with that increase?
+
+[00:05:04] Customer: Yes, I would.
+
+[00:05:06] Agent: Alright. I just need to read a brief summary of the overdraft terms before completing the request.
+
+[00:05:12] Customer: Okay.
+
+[00:05:14] Agent: Your arranged overdraft limit will be £1,500. Interest is charged daily on the amount you’re overdrawn at our standard rate. There are no setup fees, and you can reduce or remove the overdraft at any time.
+
+[00:05:33] Customer: That’s fine.
+
+[00:05:35] Agent: Do you consent to proceeding on that basis?
+
+[00:05:38] Customer: Yes.
+
+[00:05:40] Agent: Great. I’ve submitted the request, and the increase should be effective immediately.
+
+[00:05:46] Customer: Thanks, that really helps.
+
+[00:05:49] Agent: I’ll note that we discussed personal loans today, but you chose not to proceed at this time.
+
+[00:05:55] Customer: Okay.
+
+[00:05:57] Agent: Is there anything else I can help you with today?
+
+[00:06:01] Customer: No, that’s everything.
+
+[00:06:03] Agent: Thanks for calling. Goodbye.
+
+[00:06:06] Customer: Bye.

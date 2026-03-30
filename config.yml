@@ -1,0 +1,20 @@
+# Call Summarisation and QA Analysis - Configuration
+# Version: 3.0.0
+
+workflow:
+  name: "Call Summarisation and QA Analysis"
+  version: "1.0.0"
+  log_level: "INFO"
+
+# LLM Configuration - OpenAI
+llm:
+  KEY_VAULT_URL: "https://kv-oai-banking-ai-lab.vault.azure.net/"
+  KEY_SECRET_NAME: "oai-bal-uksouth-key"
+  ENDPOINT_SECRET_NAME: "oai-bal-uksouth-endpoint"
+
+  api_version: "2024-12-01-preview"
+  deployment_name: "gpt-4o"   
+  temperature: 0
+  max_tokens: 2000
+
+

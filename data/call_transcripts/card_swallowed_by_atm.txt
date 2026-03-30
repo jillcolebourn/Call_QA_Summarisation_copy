@@ -1,0 +1,60 @@
+[00:00:01] Agent: thank you for calling customer support my name is alex how can i help today
+[00:00:06] Customer: hi yeah um my card has just been swallowed by an atm and im not really sure what to do
+[00:00:13] Agent: okay im sorry thats happened can you tell me where the atm was located
+[00:00:19] Customer: it was at a supermarket just down the road from my house
+[00:00:24] Agent: alright and was it one of our atms or another banks
+[00:00:29] Customer: no it wasnt yours it was just outside the supermarket
+[00:00:34] Agent: okay thanks for confirming before i go any further i just need to go through security with you
+[00:01:35] Agent: thanks for that ive got your account up now
+[00:01:40] Agent: can you tell me roughly what time this happened
+[00:01:44] Customer: about twenty minutes ago
+[00:01:47] Agent: okay and did the atm give you any message before keeping the card
+[00:01:52] Customer: it just said unable to complete transaction and then it didnt give my card back
+[00:02:00] Agent: okay yeah that can happen sometimes if the atm detects an error or if theres an issue with the card
+[00:02:08] Customer: so can i go back to the supermarket and get it
+[00:02:12] Agent: unfortunately no once an atm retains a card it cant be returned to the customer
+[00:02:19] Customer: thats really annoying its my only card
+[00:02:23] Agent: yeah i completely understand why thats frustrating and im sorry about that
+[00:02:29] Customer: so what happens now
+[00:02:32] Agent: what we need to do is cancel that card for security reasons and order you a replacement
+[00:02:40] Customer: do you have to cancel it
+[00:02:43] Agent: yeah because we cant guarantee the security of a card thats been retained by an atm
+[00:02:50] Customer: okay but i need access to my money
+[00:02:54] Agent: i understand in the meantime you can still use online banking and any digital wallets you have set up
+[00:03:02] Customer: i dont use apple pay or anything like that
+[00:03:06] Agent: okay in that case once the new card arrives youll be able to use it as normal
+[00:03:12] Customer: how long is that going to take
+[00:03:15] Agent: standard delivery is usually three to five working days
+[00:03:21] Customer: thats a long time to be without a card
+[00:03:25] Agent: yeah i do appreciate its inconvenient unfortunately thats our standard timeframe
+[00:03:32] Customer: can it be any quicker
+[00:03:35] Agent: there is an option for expedited delivery but there may be a fee depending on your account
+[00:03:43] Customer: how much is the fee
+[00:03:46] Agent: um its usually around five pounds
+[00:03:50] Customer: i dont really think i should have to pay for that
+[00:03:54] Agent: i understand why youd feel that way but because the atm wasnt ours it would still apply
+[00:04:02] Customer: this wasnt my fault though
+[00:04:05] Agent: yeah i do understand and im sorry its happened
+[00:04:10] Customer: are you logging this as some sort of issue
+[00:04:14] Agent: it would be logged as a card replacement request rather than a complaint
+[00:04:20] Customer: shouldnt it be a complaint
+[00:04:23] Agent: um only if youd like to raise one i can do that for you
+[00:04:29] Customer: no i just want a card
+[00:04:33] Agent: okay thats fine
+[00:04:36] Agent: so im just going to cancel the card now
+[00:04:40] Agent: bear with me a moment
+[00:05:05] Agent: okay thats been cancelled and a new card has been ordered
+[00:05:12] Customer: will my pin be the same
+[00:05:15] Agent: yes your pin will stay the same unless you choose to change it
+[00:05:21] Customer: and my direct debits and things
+[00:05:24] Agent: they wont be affected because theyre linked to your account not the card
+[00:05:30] Customer: okay
+[00:05:32] Agent: once you receive the card youll just need to activate it before use
+[00:05:38] Customer: right
+[00:05:41] Agent: is there anything else youre concerned about
+[00:05:45] Customer: no im just stressed about not having access
+[00:05:49] Agent: yeah i do understand and im sorry for the inconvenience
+[00:05:55] Customer: okay
+[00:05:57] Agent: youll receive a confirmation message shortly
+[00:06:02] Customer: alright thanks
+[00:06:04] Agent: thanks for calling

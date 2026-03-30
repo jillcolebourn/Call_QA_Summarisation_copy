@@ -1,0 +1,57 @@
+[00:00:01] Agent: thank you for calling customer support my name is alex how can i help today
+[00:00:06] Customer: hi yeah um im calling because i had a call earlier claiming to be from the bank and im not sure if it was genuine
+[00:00:15] Agent: okay thanks for checking with us can you tell me what the call was about
+[00:00:21] Customer: they said there was suspicious activity on my account and that i needed to confirm some details
+[00:00:29] Agent: alright and did they ask you for any specific information
+[00:00:34] Customer: yeah they asked for my full password and part of my card number
+[00:00:41] Agent: okay um before i look into that further i just need to complete security with you
+[00:01:50] Agent: thanks for that ive got your account up now
+[00:01:55] Agent: so based on what youve said that doesnt sound like something we would do
+[00:02:01] Customer: so it wasnt really you then
+[00:02:05] Agent: um no we would never ask for your full password over the phone
+[00:02:11] Customer: i didnt give it to them but it really worried me
+[00:02:16] Agent: yeah youve done the right thing by not sharing anything
+[00:02:22] Customer: they sounded very convincing though
+[00:02:26] Agent: yeah unfortunately scammers are getting better at that
+[00:02:32] Customer: should i be worried that they knew my name
+[00:02:36] Agent: um sometimes they get basic details from other sources so it doesnt necessarily mean they have access to your account
+[00:02:45] Customer: okay
+[00:02:48] Agent: can you remember what number they called you from
+[00:02:52] Customer: it was a mobile number i didnt recognise
+[00:02:57] Agent: okay yeah we wouldnt normally call from a mobile number
+[00:03:03] Customer: they also sent a follow up text
+[00:03:07] Agent: alright what did the text say
+[00:03:11] Customer: it said to call back urgently to avoid restrictions
+[00:03:17] Agent: okay that again sounds suspicious
+[00:03:22] Customer: so what should i do now
+[00:03:26] Agent: um because you didnt share any details theres no immediate action needed on your account
+[00:03:34] Customer: are you sure i dont need to change anything
+[00:03:38] Agent: its not mandatory but you could change your online banking password just to be safe
+[00:03:46] Customer: okay i might do that later
+[00:03:50] Agent: yeah thats understandable
+[00:03:54] Customer: should i block the number
+[00:03:57] Agent: yes i would recommend blocking it and deleting the messages
+[00:04:04] Customer: can you report it somehow
+[00:04:08] Agent: i can log this as a suspected scam report on our system
+[00:04:14] Customer: does that actually help
+[00:04:18] Agent: um it helps us track patterns but it wont directly stop them contacting you
+[00:04:26] Customer: right
+[00:04:29] Agent: im just going to log a few details now
+[00:04:34] Agent: bear with me a moment
+[00:05:10] Agent: okay thats been logged
+[00:05:15] Customer: how would i know if a call really is from you in future
+[00:05:20] Agent: um we would never ask for your full password or full card number
+[00:05:28] Customer: but you do call people sometimes
+[00:05:31] Agent: yeah we do sometimes but we wouldnt pressure you or ask for sensitive details
+[00:05:39] Customer: they made it sound urgent
+[00:05:43] Agent: yeah thats a common tactic scammers use
+[00:05:48] Customer: if i ever get another call like that should i just hang up
+[00:05:53] Agent: yeah you can hang up and then call us back using the number on the back of your card
+[00:06:01] Customer: okay thats good to know
+[00:06:05] Agent: its always safest to contact us directly like youve done today
+[00:06:11] Customer: alright
+[00:06:14] Agent: is there anything else youre concerned about at the moment
+[00:06:19] Customer: no i just wanted to check it wasnt real
+[00:06:24] Agent: yeah youve done the right thing
+[00:06:28] Customer: okay thanks for your help
+[00:06:32] Agent: thanks for calling

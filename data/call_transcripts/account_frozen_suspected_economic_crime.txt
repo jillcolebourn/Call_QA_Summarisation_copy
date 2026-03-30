@@ -1,0 +1,131 @@
+[00:00:01] Agent: Thank you for calling customer support, my name is Alex. How can I help today?
+
+[00:00:06] Customer: Hi yeah, I’m calling because my account is frozen and I can’t access any of my money.
+
+[00:00:13] Agent: Okay, I’m sorry about that. I can imagine that’s worrying. Can you tell me what message you’re seeing?
+
+[00:00:20] Customer: It just says account restricted due to suspected fraud.
+
+[00:00:26] Agent: Alright, before I can look into that I just need to complete security with you.
+
+[00:01:40] Agent: Thanks for that, I’ve got your account up now.
+
+[00:01:45] Agent: I can see the restriction that’s been placed on the account.
+
+[00:01:50] Customer: So why has this happened?
+
+[00:01:54] Agent: It looks like our systems flagged some recent activity that didn’t match your usual spending.
+
+[00:02:02] Customer: Like what?
+
+[00:02:05] Agent: There were a few card transactions yesterday evening in a different location.
+
+[00:02:11] Customer: I was travelling yesterday.
+
+[00:02:15] Agent: Okay, thanks for letting me know, that does help explain it.
+
+[00:02:21] Customer: But why freeze the whole account?
+
+[00:02:25] Agent: It’s done as a precaution to protect you while we check whether the activity was genuine.
+
+[00:02:33] Customer: But I can’t pay my bills today.
+
+[00:02:37] Agent: Yeah, I understand how disruptive that is and I’m sorry.
+
+[00:02:43] Customer: How long is it going to be frozen?
+
+[00:02:47] Agent: Usually the fraud review takes up to forty-eight hours.
+
+[00:02:53] Customer: Forty-eight hours is a long time.
+
+[00:02:57] Agent: I appreciate it feels long, especially when you need access.
+
+[00:03:03] Customer: Can’t you just unlock it now? I’m telling you it’s me.
+
+[00:03:07] Agent: Unfortunately I can’t remove the restriction without the fraud team’s approval.
+
+[00:03:14] Customer: So what do you need from me?
+
+[00:03:18] Agent: I just need to ask you a few questions to confirm the recent activity.
+
+[00:03:23] Customer: Okay.
+
+[00:03:26] Agent: Did you make a card payment for one hundred and ninety pounds last night?
+
+[00:03:31] Customer: Yes, that was a hotel.
+
+[00:03:35] Agent: And there was also an online purchase for sixty pounds.
+
+[00:03:40] Customer: Yeah, that was me as well.
+
+[00:03:44] Agent: Alright, thank you.
+
+[00:03:47] Customer: So that’s it then, you know it’s me.
+
+[00:03:51] Agent: It helps, yes, but the fraud team still need to complete their checks.
+
+[00:03:58] Customer: This is really stressful.
+
+[00:04:01] Agent: I completely understand and I’m sorry you’re dealing with this.
+
+[00:04:07] Customer: Do I get any sort of compensation for this?
+
+[00:04:11] Agent: At this stage we wouldn’t look at compensation unless there’s been an error on our side.
+
+[00:04:19] Customer: Well it feels like an error. I’ve done nothing wrong and I’m being left without access to my own money.
+
+[00:04:29] Customer: And I want to make a formal complaint about this.
+
+[00:04:34] Agent: Okay, I understand. I can raise a formal complaint for you now if you’d like.
+
+[00:04:40] Customer: Yes, please. I’m not happy with how this has been handled.
+
+[00:04:45] Agent: Alright. I’ll log this as a complaint regarding the account restriction and the impact it’s having on you.
+
+[00:04:53] Agent: Just so you’re aware, once a complaint is raised, our complaints team will review it independently.
+
+[00:05:01] Customer: Okay.
+
+[00:05:03] Agent: I’m logging that you’re unhappy with the account being frozen, the lack of access to funds, and the potential impact on your bills. Is that correct?
+
+[00:05:14] Customer: Yes, that’s right.
+
+[00:05:17] Agent: Okay, I’ve raised the complaint now.
+
+[00:05:22] Agent: You’ll receive a confirmation, usually by email or letter, and we aim to provide a response within eight weeks.
+
+[00:05:32] Customer: Eight weeks?
+
+[00:05:34] Agent: That’s the maximum timeframe, but often it’s much sooner.
+
+[00:05:39] Customer: Alright.
+
+[00:05:41] Agent: Separately from the complaint, I’ve also added notes confirming you’ve verified the recent transactions to help the fraud review.
+
+[00:05:51] Customer: Does that speed it up?
+
+[00:05:54] Agent: It can help, but I can’t guarantee timings.
+
+[00:05:59] Customer: Okay.
+
+[00:06:01] Agent: You’ll be contacted once the fraud review is complete, and the complaints team will follow up about your complaint.
+
+[00:06:10] Customer: And if I don’t hear anything?
+
+[00:06:13] Agent: You can contact us again, or the complaints team will include contact details in their confirmation.
+
+[00:06:21] Customer: Alright.
+
+[00:06:23] Agent: Is there anything else you’d like me to note as part of the complaint?
+
+[00:06:28] Customer: Just that this has caused a lot of stress.
+
+[00:06:32] Agent: I’ve added that as well.
+
+[00:06:35] Agent: Again, I’m sorry for the inconvenience and the worry this has caused.
+
+[00:06:40] Customer: Okay, thanks.
+
+[00:06:43] Agent: Thanks for calling. Goodbye.
+
+[00:06:46] Customer: Bye.

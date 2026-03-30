@@ -1,0 +1,63 @@
+[00:00:01] Agent: thank you for calling customer support my name is alex how can i help today
+[00:00:07] Customer: hi yeah um im calling about my mortgage ive fallen behind and i wanted to ask about adding the arrears onto the balance
+[00:00:16] Agent: okay right um before we get into that i just need to complete security with you
+[00:01:35] Agent: thanks for that ive got your mortgage account up now
+[00:01:41] Agent: so you mentioned capitalising the arrears is that right
+[00:01:46] Customer: yeah i was told that might be an option
+[00:01:51] Agent: okay um its something thats sometimes possible but it does depend on a few things
+[00:01:59] Customer: like what
+[00:02:02] Agent: um things like your payment history and whether the account is up to date otherwise
+[00:02:10] Customer: well its not up to date thats the problem
+[00:02:14] Agent: yeah sorry i meant whether youve been able to maintain payments recently
+[00:02:21] Customer: ive missed three payments
+[00:02:24] Agent: okay right i can see that here
+[00:02:29] Customer: so can you just add it to the mortgage so i can start fresh
+[00:02:35] Agent: um its not something i can just do straight away
+[00:02:40] Customer: why not
+[00:02:42] Agent: because it usually requires a review to make sure its affordable going forward
+[00:02:51] Customer: but my situation has improved now
+[00:02:55] Agent: okay thats helpful to know
+[00:02:58] Customer: ive started a new job
+[00:03:01] Agent: alright um we would normally need to check income details as part of that
+[00:03:09] Customer: so does that mean more forms
+[00:03:12] Agent: yeah there would be some paperwork involved
+[00:03:18] Customer: how long does this all take
+[00:03:22] Agent: um it can take a few weeks depending on how quickly everything is returned
+[00:03:30] Customer: thats not great im worried about getting into more trouble
+[00:03:35] Agent: yeah i understand why youre concerned
+[00:03:39] Customer: is this something you recommend
+[00:03:42] Agent: um i cant really recommend it as such its just one of the options
+[00:03:50] Customer: what other options are there
+[00:03:53] Agent: um things like repayment plans or temporary reduced payments
+[00:04:01] Customer: no one explained that to me before
+[00:04:05] Agent: okay sorry about that
+[00:04:08] Customer: if i do this will my monthly payment go up
+[00:04:13] Agent: yes it usually would increase slightly because the balance is higher
+[00:04:21] Customer: by how much
+[00:04:24] Agent: um i dont have the exact figure right now
+[00:04:29] Customer: thats frustrating
+[00:04:32] Agent: yeah i understand
+[00:04:35] Customer: is this classed as a complaint
+[00:04:39] Agent: at the moment no its just an account query
+[00:04:45] Customer: it feels like ive not been helped properly before
+[00:04:49] Agent: i understand why you might feel that way
+[00:04:53] Customer: so what do we do now
+[00:04:56] Agent: um i can note your interest in capitalising the arrears and refer it for review
+[00:05:05] Customer: does that mean its approved
+[00:05:08] Agent: no it would just start the process
+[00:05:13] Customer: okay
+[00:05:16] Agent: ill just add some notes now
+[00:05:20] Agent: bear with me a moment
+[00:05:55] Agent: okay ive added that
+[00:06:00] Customer: whats the next step
+[00:06:03] Agent: you should receive some forms to complete about your income and outgoings
+[00:06:11] Customer: and until then
+[00:06:14] Agent: you should keep making whatever payments you can
+[00:06:20] Customer: right
+[00:06:23] Agent: once the review is done youll be told the outcome in writing
+[00:06:30] Customer: okay
+[00:06:33] Agent: is there anything else you wanted to ask
+[00:06:38] Customer: no i just hope this helps
+[00:06:42] Agent: yeah hopefully it does
+[00:06:45] Customer: alright
+[00:06:47] Agent: thanks for calling

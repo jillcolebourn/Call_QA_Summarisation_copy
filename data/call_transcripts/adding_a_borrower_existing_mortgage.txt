@@ -1,0 +1,61 @@
+[00:00:01] Agent: thank you for calling customer support my name is alex how can i help today
+[00:00:07] Customer: hi yeah um im calling because id like to add my partner onto my existing mortgage
+[00:00:15] Agent: okay right um before we go into that i just need to complete security with you
+[00:01:40] Agent: thanks for that ive got your mortgage account open now
+[00:01:47] Agent: so youre looking to add a borrower is that right
+[00:01:52] Customer: yeah weve recently moved in together and want it in both our names
+[00:02:00] Agent: okay um thats usually called a transfer of equity
+[00:02:06] Customer: right
+[00:02:09] Agent: it is possible but it does depend on a few checks
+[00:02:15] Customer: what kind of checks
+[00:02:18] Agent: um affordability mainly and some legal checks as well
+[00:02:26] Customer: does that mean my partner gets credit checked
+[00:02:30] Agent: yes they would need to go through a credit check
+[00:02:36] Customer: okay and does that affect my credit
+[00:02:40] Agent: um it shouldnt affect yours directly
+[00:02:45] Customer: how long does this process usually take
+[00:02:49] Agent: um it can take a few weeks sometimes longer
+[00:02:56] Customer: thats quite a while
+[00:02:59] Agent: yeah it can be
+[00:03:03] Customer: do we need a solicitor
+[00:03:07] Agent: um yes usually legal work is required
+[00:03:13] Customer: is that expensive
+[00:03:16] Agent: um it varies depending on the solicitor
+[00:03:22] Customer: you dont have any idea roughly
+[00:03:26] Agent: sorry i dont have exact figures
+[00:03:31] Customer: okay
+[00:03:34] Agent: there may also be a product review as part of the process
+[00:03:40] Customer: what does that mean
+[00:03:43] Agent: um sometimes the mortgage has to move onto a different rate
+[00:03:50] Customer: even if i like my current one
+[00:03:53] Agent: yeah potentially
+[00:03:57] Customer: that doesnt sound great
+[00:04:00] Agent: yeah i understand
+[00:04:05] Customer: is this something you recommend
+[00:04:08] Agent: um i cant really recommend it or not its just an option
+[00:04:15] Customer: okay
+[00:04:18] Agent: if you want to go ahead i can note your interest and refer it to the mortgage team
+[00:04:26] Customer: does that mean its approved
+[00:04:29] Agent: no it would just start the process
+[00:04:34] Customer: so theres no guarantee
+[00:04:37] Agent: no not until all checks are completed
+[00:04:43] Customer: right
+[00:04:46] Agent: youll both need to provide income details and documents
+[00:04:53] Customer: more forms then
+[00:04:56] Agent: yeah there would be some paperwork
+[00:05:01] Customer: is this logged as a complaint or anything
+[00:05:05] Agent: no it would just be logged as an enquiry
+[00:05:11] Customer: okay
+[00:05:14] Agent: im just going to add some notes now
+[00:05:18] Agent: bear with me a moment
+[00:05:52] Agent: okay ive added that
+[00:05:57] Customer: what happens next
+[00:06:00] Agent: someone from the mortgage team should contact you with the next steps
+[00:06:07] Customer: and how long until they do that
+[00:06:11] Agent: um usually within a few working days
+[00:06:18] Customer: okay
+[00:06:21] Agent: is there anything else youre unsure about
+[00:06:26] Customer: no i just feel like its a lot of hassle
+[00:06:31] Agent: yeah i understand
+[00:06:35] Customer: alright thanks
+[00:06:38] Agent: thanks for calling

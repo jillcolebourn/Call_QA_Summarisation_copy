@@ -1,0 +1,69 @@
+[00:00:01] Agent: thank you for calling customer support my name is alex how can i help today
+[00:00:08] Customer: hi yeah um im calling because my mortgage deal is coming to an end and i want some advice about switching products
+[00:00:18] Agent: okay right um before we talk about that i just need to go through security with you
+[00:01:45] Agent: thanks for that ive got your mortgage account up now
+[00:01:52] Agent: so youre looking at a product transfer is that right
+[00:01:57] Customer: yeah my fixed rate ends in about three months and im not sure what i should be doing
+[00:02:07] Agent: okay um i can see the end date here
+[00:02:12] Customer: am i meant to switch now or wait
+[00:02:17] Agent: um you dont have to do it right now but you can start looking
+[00:02:25] Customer: right
+[00:02:28] Agent: usually customers either move onto another fixed rate or let it go onto the variable rate
+[00:02:38] Customer: which is better
+[00:02:41] Agent: um it really depends on personal preference
+[00:02:48] Customer: that doesnt help much
+[00:02:51] Agent: yeah sorry i know thats a bit vague
+[00:02:57] Customer: can you see what rates are available for me
+[00:03:02] Agent: um yes i can see some options listed here
+[00:03:08] Customer: okay what are they
+[00:03:11] Agent: theres a two year fixed and a five year fixed showing
+[00:03:18] Customer: what are the rates
+[00:03:21] Agent: um one is lower than what youre on now and the other is slightly higher
+[00:03:29] Customer: how much lower
+[00:03:32] Agent: um i dont have the exact payment amounts on this screen
+[00:03:39] Customer: so you cant tell me what id actually pay
+[00:03:44] Agent: not without going into a full illustration
+[00:03:49] Customer: can you do that
+[00:03:52] Agent: um not on this call no
+[00:03:58] Customer: thats frustrating
+[00:04:01] Agent: yeah i understand
+[00:04:06] Customer: do these products have fees
+[00:04:10] Agent: some of them do yes
+[00:04:15] Customer: how much are the fees
+[00:04:18] Agent: um it depends on the product
+[00:04:23] Customer: you keep saying that
+[00:04:26] Agent: yeah sorry im just limited by what i can see
+[00:04:33] Customer: are you actually allowed to give advice
+[00:04:37] Agent: um not really advice more information
+[00:04:43] Customer: so this isnt proper mortgage advice
+[00:04:47] Agent: no its not regulated advice
+[00:04:52] Customer: should i speak to someone else then
+[00:04:56] Agent: if you want tailored advice youd need to speak to a mortgage adviser
+[00:05:04] Customer: how do i do that
+[00:05:07] Agent: um i can give you a number or you can arrange it online
+[00:05:14] Customer: okay
+[00:05:17] Agent: if you dont choose anything your mortgage will move onto the standard variable rate
+[00:05:26] Customer: and thats bad right
+[00:05:29] Agent: um its usually higher than fixed rates
+[00:05:35] Customer: great
+[00:05:38] Agent: yeah i understand why thats not ideal
+[00:05:44] Customer: how much time do i have to decide
+[00:05:48] Agent: you can switch any time before the end date
+[00:05:55] Customer: do i need to give notice
+[00:05:58] Agent: no not for a product transfer
+[00:06:04] Customer: okay
+[00:06:07] Agent: i can send you the list of available products by email
+[00:06:14] Customer: that would help
+[00:06:17] Agent: okay ill arrange that
+[00:06:22] Customer: will the payments change straight away
+[00:06:26] Agent: no only once the new deal starts
+[00:06:33] Customer: okay
+[00:06:36] Agent: is there anything else youre unsure about
+[00:06:41] Customer: no im just not very confident about choosing
+[00:06:46] Agent: yeah thats understandable
+[00:06:51] Customer: i feel like i havent really been advised
+[00:06:55] Agent: yeah sorry about that
+[00:07:00] Customer: alright just send me the info
+[00:07:04] Agent: okay ill do that now
+[00:07:09] Customer: thanks
+[00:07:11] Agent: thanks for calling

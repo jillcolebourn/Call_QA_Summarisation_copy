@@ -1,0 +1,56 @@
+[00:00:01] Agent: thank you for calling customer support my name is alex how can i help today
+[00:00:06] Customer: hi yeah um im calling because i was wondering if i could get a temporary increase on my credit limit
+[00:00:14] Agent: okay i can look into that for you is it for a specific reason
+[00:00:19] Customer: yeah ive got some unexpected expenses coming up this month
+[00:00:25] Agent: alright before i can check anything ill just need to go through security with you
+[00:01:30] Agent: thanks for that ive got your account up now
+[00:01:35] Agent: can you tell me how much of an increase you were looking for
+[00:01:41] Customer: ideally about two thousand pounds just temporarily
+[00:01:47] Agent: okay and how long were you thinking youd need that increase for
+[00:01:52] Customer: probably a couple of months maybe three at most
+[00:01:58] Agent: alright im just going to review your account and payment history
+[00:02:10] Agent: bear with me a moment
+[00:02:35] Agent: okay so i can see youve generally managed the account well
+[00:02:41] Customer: yeah ive never missed a payment
+[00:02:45] Agent: yeah i can see that here
+[00:02:49] Customer: so does that mean its approved
+[00:02:53] Agent: um not automatically no i still need to submit a request for review
+[00:03:00] Customer: is there a credit check involved
+[00:03:04] Agent: there may be a soft check carried out which wont affect your credit score
+[00:03:11] Customer: okay thats fine
+[00:03:14] Agent: can i ask what the additional funds would be used for
+[00:03:19] Customer: mostly car repairs and some household stuff
+[00:03:25] Agent: okay thanks for explaining that
+[00:03:29] Agent: im just going to check the maximum temporary increase available
+[00:03:36] Agent: bear with me
+[00:04:05] Agent: okay so the system is showing i can request up to fifteen hundred pounds temporarily
+[00:04:14] Customer: thats less than i was hoping for
+[00:04:18] Agent: yeah unfortunately thats the maximum the system is allowing right now
+[00:04:25] Customer: so its either that or nothing
+[00:04:28] Agent: at the moment yes
+[00:04:32] Customer: alright i guess thats better than nothing
+[00:04:37] Agent: okay would you like me to submit that request
+[00:04:41] Customer: yeah please
+[00:04:44] Agent: alright im just going to do that now
+[00:04:50] Agent: bear with me a moment
+[00:05:20] Agent: okay thats been submitted
+[00:05:25] Customer: is it approved straight away
+[00:05:29] Agent: um it usually takes up to twenty four hours for a decision
+[00:05:36] Customer: so i cant use it today
+[00:05:39] Agent: not until its approved no
+[00:05:44] Customer: thats a bit inconvenient
+[00:05:47] Agent: yeah i understand and im sorry about that
+[00:05:52] Customer: if its approved how long does it stay increased
+[00:05:56] Agent: it would remain in place for up to three months and then revert automatically
+[00:06:03] Customer: do i need to do anything at that point
+[00:06:07] Agent: no it would revert automatically unless you request an extension
+[00:06:14] Customer: and what if i still have a balance when it goes back down
+[00:06:19] Agent: um youd need to make sure the balance is within your standard limit by then
+[00:06:26] Customer: right
+[00:06:29] Agent: youll receive a notification once the decision is made
+[00:06:35] Customer: okay
+[00:06:38] Agent: is there anything else you wanted to ask while youre on the line
+[00:06:43] Customer: no i think thats it
+[00:06:47] Agent: okay thanks for calling and hopefully the request gets approved quickly
+[00:06:53] Customer: alright thanks
+[00:06:55] Agent: bye

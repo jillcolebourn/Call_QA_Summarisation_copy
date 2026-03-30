@@ -1,0 +1,49 @@
+[00:00:01] Agent: thank you for calling customer support uh my name is alex how can i help today
+
+[00:00:06] Customer: yeah hi um i think i've been charged twice for the same payment
+
+[00:00:11] Agent: okay sorry about that uh when did that happen
+
+[00:00:16] Customer: yesterday afternoon same amount same shop
+
+[00:00:21] Agent: okay yeah let me just uh take a look at that for you can i confirm some security details first
+
+[00:00:29] Customer: yeah that's fine
+
+[00:01:14] Agent: okay thanks for that uh so i'm looking at your account now
+
+[00:01:20] Agent: right i can see two payments uh eighty six pounds forty both from yesterday
+
+[00:01:27] Customer: yeah i only paid once though
+
+[00:01:30] Agent: yeah i understand uh sometimes that can happen if the terminal uh refreshes or there's a delay with the merchant
+
+[00:01:41] Customer: but the money's gone from my account
+
+[00:01:44] Agent: yeah i get that uh under the consumer rights act you shouldn't be charged twice so we can raise that
+
+[00:01:53] Customer: how long is that gonna take
+
+[00:01:56] Agent: um usually up to five working days sometimes sooner
+
+[00:02:03] Customer: that's not great
+
+[00:02:05] Agent: yeah i do apologize for that inconvenience
+
+[00:02:11] Customer: is this a complaint
+
+[00:02:13] Agent: uh at the moment it's logged as a payment issue unless you want me to raise a formal complaint
+
+[00:02:21] Customer: i think it should be one
+
+[00:02:24] Agent: okay yeah i can do that for you
+
+[00:02:30] Agent: so i've submitted that now you'll get an email update within forty eight hours
+
+[00:02:38] Customer: alright
+
+[00:02:40] Agent: is there anything else i can help with today
+
+[00:02:43] Customer: no
+
+[00:02:45] Agent: okay thanks for calling and sorry again

@@ -1,0 +1,14 @@
+{
+    "Junior Agent (Alex)": {
+        "role": "Junior Customer Service Rep",
+        "tenure": "3 months"
+    },
+    "Senior Agent (Sarah)": {
+        "role": "Senior Relationship Manager",
+        "tenure": "5 years"
+    },
+    "Process Specialist (Mike)": {
+        "role": "Back Office Support",
+        "tenure": "2 years"
+    }
+}

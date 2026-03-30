@@ -1,0 +1,65 @@
+[00:00:01] Agent: thank you for calling customer support my name is alex how can i help today
+[00:00:06] Customer: hi yeah um im calling because ive received a text and an email that look like theyre from the bank but i think theyre fake
+[00:00:15] Agent: okay thanks for calling to check that can you tell me what the message said
+[00:00:21] Customer: the text says my account will be suspended unless i click a link and log in
+[00:00:29] Agent: alright and did you click the link at all
+[00:00:33] Customer: no i didnt i thought it looked suspicious
+[00:00:37] Agent: okay thats good before we go any further i just need to run through some security with you
+[00:01:45] Agent: thanks for that ive got your account up now
+[00:01:50] Agent: so you mentioned there was also an email
+[00:01:54] Customer: yeah it looks very similar same sort of wording and logos
+[00:02:01] Agent: okay and did the email ask you to provide any personal or banking details
+[00:02:07] Customer: yeah it asked me to confirm my details because of suspicious activity
+[00:02:14] Agent: okay that does sound like a phishing attempt
+[00:02:19] Customer: so its definitely not from you
+[00:02:23] Agent: from what youre describing no thats not something we would send
+[00:02:29] Customer: im glad i didnt click anything
+[00:02:32] Agent: yeah youve done the right thing by not interacting with it
+[00:02:38] Customer: should i be worried that they have my email and phone number
+[00:02:44] Agent: um unfortunately scammers do sometimes get hold of contact details from data breaches elsewhere
+[00:02:53] Customer: that makes me uncomfortable
+[00:02:56] Agent: yeah i understand it can be unsettling
+[00:03:01] Customer: do i need to change any of my details
+[00:03:05] Agent: because you havent clicked the link or given any information theres no immediate action needed
+[00:03:13] Customer: are you sure
+[00:03:15] Agent: yes based on what youve told me your account looks secure
+[00:03:21] Customer: okay
+[00:03:24] Agent: what i will do is log this as a phishing report on our system
+[00:03:31] Customer: what does that actually do
+[00:03:35] Agent: it helps our fraud team track ongoing scam activity and warn other customers
+[00:03:44] Customer: alright
+[00:03:47] Agent: im just going to log a few details now
+[00:03:52] Agent: bear with me
+[00:04:25] Agent: okay thats been logged
+[00:04:30] Customer: should i forward the email somewhere
+[00:04:34] Agent: yes if possible you can forward it to our phishing email address
+[00:04:41] Customer: i dont remember what that is
+[00:04:44] Agent: i can send it to you by text or email
+[00:04:49] Customer: email would be better
+[00:04:52] Agent: okay ill arrange that for you
+[00:04:58] Customer: what about the text message
+[00:05:02] Agent: you should delete it and not reply to it
+[00:05:07] Customer: okay
+[00:05:10] Agent: and just to double check you havent noticed any unusual activity on your account
+[00:05:16] Customer: no everything looks normal
+[00:05:20] Agent: okay thats good
+[00:05:23] Customer: do i need to change my password anyway just in case
+[00:05:28] Agent: um its not required but it wouldnt hurt to update it for peace of mind
+[00:05:36] Customer: i might do that later
+[00:05:39] Agent: yeah thats understandable
+[00:05:42] Customer: is this something thats happening a lot
+[00:05:46] Agent: yeah unfortunately we are seeing an increase in phishing attempts
+[00:05:53] Customer: thats worrying
+[00:05:56] Agent: yeah it is and thats why we always advise customers to be cautious
+[00:06:02] Customer: how would i know if a message is really from you
+[00:06:07] Agent: we would never ask you to click a link to log in or share full security details
+[00:06:15] Customer: okay thats helpful
+[00:06:19] Agent: if youre ever unsure like today its always best to contact us directly
+[00:06:26] Customer: yeah im glad i did
+[00:06:29] Agent: youve absolutely done the right thing
+[00:06:33] Customer: alright
+[00:06:36] Agent: is there anything else youre concerned about
+[00:06:40] Customer: no that was it
+[00:06:43] Agent: okay thanks for calling and thanks for reporting it
+[00:06:48] Customer: thanks
+[00:06:50] Agent: bye

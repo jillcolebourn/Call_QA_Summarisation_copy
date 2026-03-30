@@ -1,0 +1,66 @@
+[00:00:01] Agent: thank you for calling customer support my name is alex how can i help today
+[00:00:06] Customer: hi yeah um im calling because i think ive sent a payment to the wrong bank account
+[00:00:12] Agent: okay im sorry to hear that when did you make the payment
+[00:00:17] Customer: it was earlier today about half nine this morning
+[00:00:21] Agent: alright and was that sent as a faster payment through online or mobile banking
+[00:00:27] Customer: yeah it was through the mobile app
+[00:00:31] Agent: okay before i can look into that for you i just need to go through some security questions
+[00:01:30] Agent: thanks for that ive got your account up now
+[00:01:35] Agent: so im just looking at your recent activity can you confirm the amount you sent
+[00:01:41] Customer: it was one thousand two hundred pounds
+[00:01:45] Agent: okay yeah i can see a faster payment for twelve hundred pounds sent this morning
+[00:01:51] Customer: thats the one it was meant to go to my builder but i clicked the wrong saved payee
+[00:01:59] Agent: okay yeah i understand how that can happen especially if youve got more than one payee saved
+[00:02:06] Customer: so can you just reverse it
+[00:02:09] Agent: um unfortunately with faster payments they do go through almost instantly so we cant automatically reverse them
+[00:02:18] Customer: so what happens now then
+[00:02:21] Agent: what we can do is raise whats called a misdirected payment request with the receiving bank
+[00:02:29] Customer: does that mean i definitely get the money back
+[00:02:33] Agent: um i cant guarantee it because it does depend on whether the funds are still available in the other account
+[00:02:42] Customer: thats really worrying this is a lot of money for me
+[00:02:47] Agent: yeah i completely understand why youre worried and im sorry this has happened
+[00:02:53] Customer: how long does this whole thing take
+[00:02:57] Agent: so once i submit the request the other bank usually has up to twenty working days to respond
+[00:03:05] Customer: twenty days thats ridiculous
+[00:03:09] Agent: yeah i appreciate thats a long time unfortunately thats the standard timeframe
+[00:03:15] Customer: so im just without that money until then
+[00:03:19] Agent: possibly yes although sometimes it can be resolved sooner if the funds are still there
+[00:03:27] Customer: and what if the other person just refuses
+[00:03:31] Agent: if the funds have already been spent the receiving bank will let us know and we would advise you on next steps
+[00:03:40] Customer: like what next steps
+[00:03:43] Agent: um in some cases customers are advised to contact the police or seek legal advice
+[00:03:51] Customer: that doesnt sound very helpful
+[00:03:54] Agent: i understand its not ideal and i am sorry
+[00:04:00] Customer: this feels like something the bank should fix
+[00:04:04] Agent: i do understand why you feel that way but because the payment was authorised it does limit what we can do
+[00:04:13] Customer: but it was a mistake
+[00:04:15] Agent: yeah and mistakes do happen which is why we have this process in place
+[00:04:22] Customer: are you logging this as a complaint
+[00:04:26] Agent: at the moment it would be logged as a payment issue unless you want me to raise a formal complaint as well
+[00:04:34] Customer: shouldnt it already be one
+[00:04:37] Agent: um it doesnt automatically become one but i can certainly raise it if youd like
+[00:04:45] Customer: yeah i think i want that noted
+[00:04:48] Agent: okay ill make a note of that for you
+[00:04:54] Agent: so im just going to submit the misdirected payment request now
+[00:05:00] Agent: bear with me a moment
+[00:05:25] Agent: okay thats been submitted to the receiving bank
+[00:05:31] Customer: do i get any confirmation
+[00:05:34] Agent: youll receive a letter or email within the next couple of days confirming its been raised
+[00:05:42] Customer: and theres nothing else you can do right now
+[00:05:46] Agent: at this stage no its a case of waiting for the other bank to respond
+[00:05:54] Customer: this is really stressful
+[00:05:57] Agent: yeah i completely understand and im sorry for the stress this has caused
+[00:06:03] Customer: am i protected by any consumer law here
+[00:06:07] Agent: um under uk regulations authorised payments are treated differently but you are entitled to have us attempt recovery
+[00:06:17] Customer: thats not very reassuring
+[00:06:20] Agent: i understand its not the answer you were hoping for
+[00:06:25] Customer: if i dont hear anything what do i do
+[00:06:28] Agent: if you havent heard back within the timeframe you can contact us again and we can chase it
+[00:06:36] Customer: okay
+[00:06:38] Agent: is there anything else you wanted to ask while ive got you
+[00:06:42] Customer: no i just want my money back
+[00:06:46] Agent: yeah i do understand and hopefully the other bank confirms the funds are still available
+[00:06:54] Customer: alright
+[00:06:56] Agent: okay thanks for calling and again im sorry this has happened
+[00:07:01] Customer: bye
+[00:07:02] Agent: bye
